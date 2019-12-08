@@ -1,7 +1,7 @@
 <?php 
 	include 'db.php';
  ?>
-<input type="button" value="BACK TO MAIN" style="background-color:pink; color:darkgreen; font-weight: bold; cursor: pointer; width: 200px;height: 40px"  onclick="window.location.href='mainpage.html'"><br><br><br>
+<input type="button" value="BACK TO MAIN" style="background-color:pink; color:darkgreen; font-weight: bold; cursor: pointer; width: 200px;height: 40px"  onclick="window.location.href='index.html'"><br><br><br>
  <form action="search.php" method="POST">
  	<input type="text" name="search" placeholder="search">
  	<button type= "submit" name="submit-search">SEARCH</button>

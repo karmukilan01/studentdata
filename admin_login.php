@@ -32,7 +32,7 @@
 	</tr>
 	</tr>
 	<tr>
-		<td>Back To<a href="mainpage.html">Main Page</a></td>
+		<td>Back To<a href="index.html">Main Page</a></td>
 	</tr>
 </center>
 </header>

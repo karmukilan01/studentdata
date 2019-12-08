@@ -18,7 +18,7 @@
 			</head>
 			<body><br>
 				<br><a href='tutor_logout.php'><input type=button value=logout name=logout class="btnSubmit" align=""></a>
-				<a href='mainpage.html'><input type=button value="Go To MainPage" name="main" class="btnSubmit" align=""></a>
+				<a href='index.html'><input type=button value="Go To MainPage" name="main" class="btnSubmit" align=""></a>
 				<form name="frmUser" method="post" action="">
 					<div style="width:500px;">
 					<div class="message"><?php if(isset($message)) { echo $message; } ?></div>

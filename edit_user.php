@@ -22,7 +22,7 @@ $row = mysqli_fetch_array($result);
 <form name="frmUser" method="post" action="">
 <div style="width:500px;">
 <div class="message"><?php if(isset($message)) { echo $message; } ?></div>
-<div align="right" style="padding-bottom:5px;"><a href="index.php" class="link"><img alt='List' title='List' src='images/list.png' width='15px' height='15px'/> Back to main</a></div>
+<div align="right" style="padding-bottom:5px;"><a href="tutordata.php" class="link"><img alt='List' title='List' src='images/list.png' width='15px' height='15px'/> Back to main</a></div>
 <table border="0" cellpadding="10" cellspacing="0" width="500" align="center" class="tblSaveForm">
 <tr class="tableheader">
 <td colspan="2">Edit tutor</td>
